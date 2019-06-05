@@ -22,5 +22,5 @@ export const main = async (event, context) => {
   } catch (e) {
     return failure({ status: false })
   }
-
+ 
 }
