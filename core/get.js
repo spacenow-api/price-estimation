@@ -7,10 +7,12 @@ export const main = async (event, context) => {
     TableName: process.env.tableName,
     FilterExpression: "#suburb = :suburb",
     ExpressionAttributeNames:{
-        "#suburb": "suburb"
+        "#suburb": "suburb",
+        "#state": "state"
     },
     ExpressionAttributeValues: {
-      ":suburb": event.pathParameters.suburb
+      ":suburb": event.pathParameters.suburb,
+      ":state": event.pathParameters.state
     }
   }
 
