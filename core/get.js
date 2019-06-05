@@ -5,13 +5,12 @@ export const main = async (event, context) => {
   
   const params = {
     TableName: process.env.tableName,
-    FilterExpression: "#peId = :priceEstimationId",
+    FilterExpression: "#suburb = :suburb",
     ExpressionAttributeNames:{
-        "#peId": "priceEstimationId"
+        "#suburb": "suburb"
     },
     ExpressionAttributeValues: {
-      ":suburb": event.pathParameters.suburb,
-      "state": event.pathParameters.state
+      ":suburb": event.pathParameters.suburb
     }
   }
 
