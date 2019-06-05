@@ -5,7 +5,7 @@ export const main = async (event, context) => {
   
   const params = {
     TableName: process.env.tableName,
-    FilterExpression: "#suburb = :suburb",
+    FilterExpression: "#suburb = :suburb AND #state = :state",
     ExpressionAttributeNames:{
         "#suburb": "suburb",
         "#state": "state"
