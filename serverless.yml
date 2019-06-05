@@ -79,7 +79,7 @@ functions:
     handler: core/get.main
     events:
       - http:
-          path: price-estimation/:suburb:state
+          path: price-estimation/{suburb}{state}
           method: get
           cors: true
           # authorizer: aws_iam
