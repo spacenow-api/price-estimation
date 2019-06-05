@@ -10,7 +10,8 @@ export const main = async (event, context) => {
         "#peId": "priceEstimationId"
     },
     ExpressionAttributeValues: {
-      ":priceEstimationId": event.pathParameters.id
+      ":suburb": event.pathParameters.suburb,
+      "state": event.pathParameters.state
     }
   }
 
