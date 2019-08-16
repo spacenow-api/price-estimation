@@ -1,5 +1,4 @@
 import fs from 'fs'
-import path from 'path'
 
 import * as dynamoDbLib from '../libs/dynamodb-lib'
 import { success, failure } from '../libs/response-lib'
@@ -8,7 +7,7 @@ const FILL_DATABASE = true
 
 export const main = async () => {
   if (FILL_DATABASE) {
-    const fileData = fs.readFileSync(path.resolve(__dirname, './../estimations.json'))
+    const fileData = fs.readFileSync('estimations.json')
     const estimationsData = JSON.parse(fileData)
     try {
       console.log('Put all itens on price-estimation-table...')
