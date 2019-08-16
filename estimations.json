@@ -4,7 +4,7 @@
     "suburb": "Alexandria",
     "postcode": "2015",
     "state": "NSW",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -13,7 +13,7 @@
     "suburb": "Ashfield",
     "postcode": "2131",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -22,7 +22,7 @@
     "suburb": "Bondi Beach",
     "postcode": "2023",
     "state": "NSW",
-    "estimate": "800",
+    "estimate": 800,
     "term": "month",
     "type": "office"
   },
@@ -31,7 +31,7 @@
     "suburb": "Bondi Juction",
     "postcode": "2022",
     "state": "NSW",
-    "estimate": "550",
+    "estimate": 550,
     "term": "month",
     "type": "office"
   },
@@ -40,7 +40,7 @@
     "suburb": "Burwood",
     "postcode": "2136",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -49,7 +49,7 @@
     "suburb": "Cammeray",
     "postcode": "2062",
     "state": "NSW",
-    "estimate": "385",
+    "estimate": 385,
     "term": "month",
     "type": "office"
   },
@@ -58,7 +58,7 @@
     "suburb": "Camperdown",
     "postcode": "2050",
     "state": "NSW",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -67,7 +67,7 @@
     "suburb": "Canterbury",
     "postcode": "2193",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -76,7 +76,7 @@
     "suburb": "Chatswood",
     "postcode": "2057",
     "state": "NSW",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -85,7 +85,7 @@
     "suburb": "Chippendale",
     "postcode": "2008",
     "state": "NSW",
-    "estimate": "485",
+    "estimate": 485,
     "term": "month",
     "type": "office"
   },
@@ -94,7 +94,7 @@
     "suburb": "Concord",
     "postcode": "2137",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -103,7 +103,7 @@
     "suburb": "Coogee",
     "postcode": "2034",
     "state": "NSW",
-    "estimate": "385",
+    "estimate": 385,
     "term": "month",
     "type": "office"
   },
@@ -112,7 +112,7 @@
     "suburb": "Cremorne",
     "postcode": "2090",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -121,7 +121,7 @@
     "suburb": "Crows Nest",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "425",
+    "estimate": 425,
     "term": "month",
     "type": "office"
   },
@@ -130,7 +130,7 @@
     "suburb": "Dee Why",
     "postcode": "2099",
     "state": "NSW",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "office"
   },
@@ -139,7 +139,7 @@
     "suburb": "Double Bay",
     "postcode": "2028",
     "state": "NSW",
-    "estimate": "600",
+    "estimate": 600,
     "term": "month",
     "type": "office"
   },
@@ -148,7 +148,7 @@
     "suburb": "Earlwood",
     "postcode": "2206",
     "state": "NSW",
-    "estimate": "625",
+    "estimate": 625,
     "term": "month",
     "type": "office"
   },
@@ -157,7 +157,7 @@
     "suburb": "Eastlakes",
     "postcode": "2018",
     "state": "NSW",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -166,7 +166,7 @@
     "suburb": "Edgecliff",
     "postcode": "2027",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -175,7 +175,7 @@
     "suburb": "Erskineville",
     "postcode": "2043",
     "state": "NSW",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -184,7 +184,7 @@
     "suburb": "Gymea",
     "postcode": "2227",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -193,7 +193,7 @@
     "suburb": "Frenchs Forest",
     "postcode": "",
     "state": "NSW",
-    "estimate": "230",
+    "estimate": 230,
     "term": "month",
     "type": "office"
   },
@@ -202,7 +202,7 @@
     "suburb": "Harris Park",
     "postcode": "2150",
     "state": "NSW",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -211,7 +211,7 @@
     "suburb": "Haymarket",
     "postcode": "2000",
     "state": "NSW",
-    "estimate": "750",
+    "estimate": 750,
     "term": "month",
     "type": "office"
   },
@@ -220,7 +220,7 @@
     "suburb": "Homebush",
     "postcode": "2127",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -229,7 +229,7 @@
     "suburb": "Hurstville",
     "postcode": "2220",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -238,7 +238,7 @@
     "suburb": "Kensignton ",
     "postcode": "2033",
     "state": "NSW",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -247,7 +247,7 @@
     "suburb": "Kingsford",
     "postcode": "2032",
     "state": "NSW",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -256,7 +256,7 @@
     "suburb": "Kirribilli",
     "postcode": "2061",
     "state": "NSW",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "office"
   },
@@ -265,7 +265,7 @@
     "suburb": "Leichhardt",
     "postcode": "2040",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -274,7 +274,7 @@
     "suburb": "Liverpool",
     "postcode": "2170",
     "state": "NSW",
-    "estimate": "325",
+    "estimate": 325,
     "term": "month",
     "type": "office"
   },
@@ -283,7 +283,7 @@
     "suburb": "Manly",
     "postcode": "2095",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -292,7 +292,7 @@
     "suburb": "Mascot",
     "postcode": "2020",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -301,7 +301,7 @@
     "suburb": "Millers Point",
     "postcode": "2000",
     "state": "NSW",
-    "estimate": "850",
+    "estimate": 850,
     "term": "month",
     "type": "office"
   },
@@ -310,7 +310,7 @@
     "suburb": "Naremburn",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -319,7 +319,7 @@
     "suburb": "Neutral Bay",
     "postcode": "2089",
     "state": "NSW",
-    "estimate": "420",
+    "estimate": 420,
     "term": "month",
     "type": "office"
   },
@@ -328,7 +328,7 @@
     "suburb": "Newcastle",
     "postcode": "2300",
     "state": "NSW",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "office"
   },
@@ -337,7 +337,7 @@
     "suburb": "Newtown",
     "postcode": "2042",
     "state": "NSW",
-    "estimate": "430",
+    "estimate": 430,
     "term": "month",
     "type": "office"
   },
@@ -346,7 +346,7 @@
     "suburb": "North Bondi",
     "postcode": "2059",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -355,7 +355,7 @@
     "suburb": "North Stratfield",
     "postcode": "2137",
     "state": "NSW",
-    "estimate": "410",
+    "estimate": 410,
     "term": "month",
     "type": "office"
   },
@@ -364,7 +364,7 @@
     "suburb": "North Sydney",
     "postcode": "2059",
     "state": "NSW",
-    "estimate": "750",
+    "estimate": 750,
     "term": "month",
     "type": "office"
   },
@@ -373,7 +373,7 @@
     "suburb": "Parramatta",
     "postcode": "2124",
     "state": "NSW",
-    "estimate": "490",
+    "estimate": 490,
     "term": "month",
     "type": "office"
   },
@@ -382,7 +382,7 @@
     "suburb": "Potts Point",
     "postcode": "2011",
     "state": "NSW",
-    "estimate": "550",
+    "estimate": 550,
     "term": "month",
     "type": "office"
   },
@@ -391,7 +391,7 @@
     "suburb": "Pymble",
     "postcode": "2073",
     "state": "NSW",
-    "estimate": "360",
+    "estimate": 360,
     "term": "month",
     "type": "office"
   },
@@ -400,7 +400,7 @@
     "suburb": "Pyrmont",
     "postcode": "2009",
     "state": "NSW",
-    "estimate": "600",
+    "estimate": 600,
     "term": "month",
     "type": "office"
   },
@@ -409,7 +409,7 @@
     "suburb": "Rushcutters",
     "postcode": "2011",
     "state": "NSW",
-    "estimate": "650",
+    "estimate": 650,
     "term": "month",
     "type": "office"
   },
@@ -418,7 +418,7 @@
     "suburb": "St Peters",
     "postcode": "2044",
     "state": "NSW",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "office"
   },
@@ -427,7 +427,7 @@
     "suburb": "St Leonards",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "580",
+    "estimate": 580,
     "term": "month",
     "type": "office"
   },
@@ -436,7 +436,7 @@
     "suburb": "Surry Hills",
     "postcode": "2010",
     "state": "NSW",
-    "estimate": "550",
+    "estimate": 550,
     "term": "month",
     "type": "office"
   },
@@ -445,7 +445,7 @@
     "suburb": "Sydney",
     "postcode": "2001",
     "state": "NSW",
-    "estimate": "850",
+    "estimate": 850,
     "term": "month",
     "type": "office"
   },
@@ -454,7 +454,7 @@
     "suburb": "Ultimo",
     "postcode": "2007",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -463,7 +463,7 @@
     "suburb": "Waterloo",
     "postcode": "2017",
     "state": "NSW",
-    "estimate": "425",
+    "estimate": 425,
     "term": "month",
     "type": "office"
   },
@@ -472,7 +472,7 @@
     "suburb": "Wentworth Point",
     "postcode": "2009",
     "state": "NSW",
-    "estimate": "525",
+    "estimate": 525,
     "term": "month",
     "type": "office"
   },
@@ -481,7 +481,7 @@
     "suburb": "Westmead",
     "postcode": "2145",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -490,7 +490,7 @@
     "suburb": "Wickham",
     "postcode": "2293",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -499,7 +499,7 @@
     "suburb": "Wolli Creek",
     "postcode": "2205",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -508,7 +508,7 @@
     "suburb": "Wollongong",
     "postcode": "2520",
     "state": "NSW",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -517,7 +517,7 @@
     "suburb": "Wollstonecraft",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -526,7 +526,7 @@
     "suburb": "Woollahra",
     "postcode": "2025",
     "state": "NSW",
-    "estimate": "485",
+    "estimate": 485,
     "term": "month",
     "type": "office"
   },
@@ -535,7 +535,7 @@
     "suburb": "Zetland",
     "postcode": "2017",
     "state": "NSW",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -544,7 +544,7 @@
     "suburb": "Abbotsford",
     "postcode": "3067",
     "state": "VIC",
-    "estimate": "290",
+    "estimate": 290,
     "term": "month",
     "type": "office"
   },
@@ -553,7 +553,7 @@
     "suburb": "Brunswick",
     "postcode": "3056",
     "state": "VIC",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -562,7 +562,7 @@
     "suburb": "Carlton",
     "postcode": "3053",
     "state": "VIC",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -571,7 +571,7 @@
     "suburb": "Clayton",
     "postcode": "3168",
     "state": "VIC",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -580,7 +580,7 @@
     "suburb": "Dandenong",
     "postcode": "3175",
     "state": "VIC",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "office"
   },
@@ -589,7 +589,7 @@
     "suburb": "Docklands",
     "postcode": "3008",
     "state": "VIC",
-    "estimate": "550",
+    "estimate": 550,
     "term": "month",
     "type": "office"
   },
@@ -598,7 +598,7 @@
     "suburb": "Flemington ",
     "postcode": "3031",
     "state": "VIC",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "office"
   },
@@ -607,7 +607,7 @@
     "suburb": "Footscray",
     "postcode": "3011",
     "state": "VIC",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -616,7 +616,7 @@
     "suburb": "Greensborough",
     "postcode": "3088",
     "state": "VIC",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "office"
   },
@@ -625,7 +625,7 @@
     "suburb": "Hawthorn",
     "postcode": "3122",
     "state": "VIC",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -634,7 +634,7 @@
     "suburb": "Heidelberg West",
     "postcode": "3084",
     "state": "VIC",
-    "estimate": "140",
+    "estimate": 140,
     "term": "month",
     "type": "office"
   },
@@ -643,7 +643,7 @@
     "suburb": "Melbourne",
     "postcode": "3001",
     "state": "VIC",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -652,7 +652,7 @@
     "suburb": "Mitcham",
     "postcode": "3132",
     "state": "VIC",
-    "estimate": "290",
+    "estimate": 290,
     "term": "month",
     "type": "office"
   },
@@ -661,7 +661,7 @@
     "suburb": "Moonee Ponds",
     "postcode": "3099",
     "state": "VIC",
-    "estimate": "340",
+    "estimate": 340,
     "term": "month",
     "type": "office"
   },
@@ -670,7 +670,7 @@
     "suburb": "Mount Waverley",
     "postcode": "3149",
     "state": "VIC",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -679,7 +679,7 @@
     "suburb": "Newport",
     "postcode": "3015",
     "state": "VIC",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "office"
   },
@@ -688,7 +688,7 @@
     "suburb": "North Melbourne ",
     "postcode": "3051",
     "state": "VIC",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "office"
   },
@@ -697,7 +697,7 @@
     "suburb": "Parkville",
     "postcode": "3052",
     "state": "VIC",
-    "estimate": "295",
+    "estimate": 295,
     "term": "month",
     "type": "office"
   },
@@ -706,7 +706,7 @@
     "suburb": "Prahran",
     "postcode": "3181",
     "state": "VIC",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -715,7 +715,7 @@
     "suburb": "Richmond",
     "postcode": "3121",
     "state": "VIC",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "office"
   },
@@ -724,7 +724,7 @@
     "suburb": "Saint Kilda",
     "postcode": "3182",
     "state": "VIC",
-    "estimate": "285",
+    "estimate": 285,
     "term": "month",
     "type": "office"
   },
@@ -733,7 +733,7 @@
     "suburb": "Saint Kilda East",
     "postcode": "3183",
     "state": "VIC",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "office"
   },
@@ -742,7 +742,7 @@
     "suburb": "South Melbourne",
     "postcode": "3025",
     "state": "VIC",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -751,7 +751,7 @@
     "suburb": "South Yarra",
     "postcode": "3141",
     "state": "VIC",
-    "estimate": "340",
+    "estimate": 340,
     "term": "month",
     "type": "office"
   },
@@ -760,7 +760,7 @@
     "suburb": "Southbank",
     "postcode": "3006",
     "state": "VIC",
-    "estimate": "520",
+    "estimate": 520,
     "term": "month",
     "type": "office"
   },
@@ -769,7 +769,7 @@
     "suburb": "West Melbourne",
     "postcode": "3003",
     "state": "VIC",
-    "estimate": "360",
+    "estimate": 360,
     "term": "month",
     "type": "office"
   },
@@ -778,7 +778,7 @@
     "suburb": "Windsor",
     "postcode": "3181",
     "state": "VIC",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "office"
   },
@@ -787,7 +787,7 @@
     "suburb": "Auchenflower",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "390",
+    "estimate": 390,
     "term": "month",
     "type": "office"
   },
@@ -796,7 +796,7 @@
     "suburb": "Bowen Hills",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -805,7 +805,7 @@
     "suburb": "Brisbane",
     "postcode": "4001",
     "state": "QLD",
-    "estimate": "480",
+    "estimate": 480,
     "term": "month",
     "type": "office"
   },
@@ -814,7 +814,7 @@
     "suburb": "Brisbane City",
     "postcode": "4000",
     "state": "QLD",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -823,7 +823,7 @@
     "suburb": "Bundall",
     "postcode": "4217",
     "state": "QLD",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "office"
   },
@@ -832,7 +832,7 @@
     "suburb": "Fortitutde Valley",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "office"
   },
@@ -841,7 +841,7 @@
     "suburb": "Greenslopes",
     "postcode": "4120",
     "state": "QLD",
-    "estimate": "390",
+    "estimate": 390,
     "term": "month",
     "type": "office"
   },
@@ -850,7 +850,7 @@
     "suburb": "Herston",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "office"
   },
@@ -859,7 +859,7 @@
     "suburb": "Kangaroo Point",
     "postcode": "4169",
     "state": "QLD",
-    "estimate": "315",
+    "estimate": 315,
     "term": "month",
     "type": "office"
   },
@@ -868,7 +868,7 @@
     "suburb": "Milton",
     "postcode": "4064",
     "state": "QLD",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -877,7 +877,7 @@
     "suburb": "Nambour",
     "postcode": "4560",
     "state": "QLD",
-    "estimate": "210",
+    "estimate": 210,
     "term": "month",
     "type": "office"
   },
@@ -886,7 +886,7 @@
     "suburb": "New Farm",
     "postcode": "4005",
     "state": "QLD",
-    "estimate": "475",
+    "estimate": 475,
     "term": "month",
     "type": "office"
   },
@@ -895,7 +895,7 @@
     "suburb": "Newstead",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "office"
   },
@@ -904,7 +904,7 @@
     "suburb": "Red Hill",
     "postcode": "4059",
     "state": "QLD",
-    "estimate": "390",
+    "estimate": 390,
     "term": "month",
     "type": "office"
   },
@@ -913,7 +913,7 @@
     "suburb": "South Brisbane",
     "postcode": "4101",
     "state": "QLD",
-    "estimate": "360",
+    "estimate": 360,
     "term": "month",
     "type": "office"
   },
@@ -922,7 +922,7 @@
     "suburb": "Southport",
     "postcode": "4215",
     "state": "QLD",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "office"
   },
@@ -931,7 +931,7 @@
     "suburb": "Spring Hill",
     "postcode": "4000",
     "state": "QLD",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -940,7 +940,7 @@
     "suburb": "Surfers Paradise",
     "postcode": "4217",
     "state": "QLD",
-    "estimate": "380",
+    "estimate": 380,
     "term": "month",
     "type": "office"
   },
@@ -949,7 +949,7 @@
     "suburb": "Teneriffe",
     "postcode": "4005",
     "state": "QLD",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "office"
   },
@@ -958,7 +958,7 @@
     "suburb": "West End",
     "postcode": "4101",
     "state": "QLD",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "office"
   },
@@ -967,7 +967,7 @@
     "suburb": "Wolloongabba",
     "postcode": "4102",
     "state": "QLD",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "office"
   },
@@ -976,7 +976,7 @@
     "suburb": "Yeerongpilly",
     "postcode": "4105",
     "state": "QLD",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "office"
   },
@@ -985,7 +985,7 @@
     "suburb": "East Perth",
     "postcode": "6004",
     "state": "WA",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "office"
   },
@@ -994,7 +994,7 @@
     "suburb": "Perth",
     "postcode": "6000",
     "state": "WA",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "office"
   },
@@ -1003,7 +1003,7 @@
     "suburb": "Scarborough",
     "postcode": "6019",
     "state": "WA",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "office"
   },
@@ -1012,7 +1012,7 @@
     "suburb": "Canberra",
     "postcode": "2601",
     "state": "ACT",
-    "estimate": "290",
+    "estimate": 290,
     "term": "month",
     "type": "office"
   },
@@ -1021,7 +1021,7 @@
     "suburb": "Kingston",
     "postcode": "2604",
     "state": "ACT",
-    "estimate": "420",
+    "estimate": 420,
     "term": "month",
     "type": "office"
   },
@@ -1030,7 +1030,7 @@
     "suburb": "Hobart",
     "postcode": "7000",
     "state": "TAS",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -1039,7 +1039,7 @@
     "suburb": "Lauceston ",
     "postcode": "7250",
     "state": "TAS",
-    "estimate": "140",
+    "estimate": 140,
     "term": "month",
     "type": "office"
   },
@@ -1048,7 +1048,7 @@
     "suburb": "Adelaide",
     "postcode": "5000",
     "state": "SA",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "office"
   },
@@ -1057,7 +1057,7 @@
     "suburb": "Newcastle",
     "postcode": "2300",
     "state": "NSW",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "office"
   },
@@ -1066,7 +1066,7 @@
     "suburb": "Alexandria",
     "postcode": "2015",
     "state": "NSW",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -1075,7 +1075,7 @@
     "suburb": "Ashfield",
     "postcode": "2131",
     "state": "NSW",
-    "estimate": "160",
+    "estimate": 160,
     "term": "month",
     "type": "carpark"
   },
@@ -1084,7 +1084,7 @@
     "suburb": "Bondi Beach",
     "postcode": "2023",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "carpark"
   },
@@ -1093,7 +1093,7 @@
     "suburb": "Bondi Juction",
     "postcode": "2022",
     "state": "NSW",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "carpark"
   },
@@ -1102,7 +1102,7 @@
     "suburb": "Burwood",
     "postcode": "2136",
     "state": "NSW",
-    "estimate": "190",
+    "estimate": 190,
     "term": "month",
     "type": "carpark"
   },
@@ -1111,7 +1111,7 @@
     "suburb": "Cammeray",
     "postcode": "2062",
     "state": "NSW",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "carpark"
   },
@@ -1120,7 +1120,7 @@
     "suburb": "Camperdown",
     "postcode": "2050",
     "state": "NSW",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "carpark"
   },
@@ -1129,7 +1129,7 @@
     "suburb": "Canterbury",
     "postcode": "2193",
     "state": "NSW",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1138,7 +1138,7 @@
     "suburb": "Chatswood",
     "postcode": "2057",
     "state": "NSW",
-    "estimate": "360",
+    "estimate": 360,
     "term": "month",
     "type": "carpark"
   },
@@ -1147,7 +1147,7 @@
     "suburb": "Chippendale",
     "postcode": "2008",
     "state": "NSW",
-    "estimate": "380",
+    "estimate": 380,
     "term": "month",
     "type": "carpark"
   },
@@ -1156,7 +1156,7 @@
     "suburb": "Concord",
     "postcode": "2137",
     "state": "NSW",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1165,7 +1165,7 @@
     "suburb": "Coogee",
     "postcode": "2034",
     "state": "NSW",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "carpark"
   },
@@ -1174,7 +1174,7 @@
     "suburb": "Cremorne",
     "postcode": "2090",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1183,7 +1183,7 @@
     "suburb": "Crows Nest",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "380",
+    "estimate": 380,
     "term": "month",
     "type": "carpark"
   },
@@ -1192,7 +1192,7 @@
     "suburb": "Dee Why",
     "postcode": "2099",
     "state": "NSW",
-    "estimate": "1,100",
+    "estimate": 1,100,
     "term": "month",
     "type": "carpark"
   },
@@ -1201,7 +1201,7 @@
     "suburb": "Double Bay",
     "postcode": "2028",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1210,7 +1210,7 @@
     "suburb": "Earlwood",
     "postcode": "2206",
     "state": "NSW",
-    "estimate": "400",
+    "estimate": 400,
     "term": "month",
     "type": "carpark"
   },
@@ -1219,7 +1219,7 @@
     "suburb": "Eastlakes",
     "postcode": "2018",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1228,7 +1228,7 @@
     "suburb": "Edgecliff",
     "postcode": "2027",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1237,7 +1237,7 @@
     "suburb": "Erskineville",
     "postcode": "2043",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1246,7 +1246,7 @@
     "suburb": "Gymea",
     "postcode": "2227",
     "state": "NSW",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1255,7 +1255,7 @@
     "suburb": "Harris Park",
     "postcode": "2150",
     "state": "NSW",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "carpark"
   },
@@ -1264,7 +1264,7 @@
     "suburb": "Haymarket",
     "postcode": "2000",
     "state": "NSW",
-    "estimate": "370",
+    "estimate": 370,
     "term": "month",
     "type": "carpark"
   },
@@ -1273,7 +1273,7 @@
     "suburb": "Homebush",
     "postcode": "2127",
     "state": "NSW",
-    "estimate": "170",
+    "estimate": 170,
     "term": "month",
     "type": "carpark"
   },
@@ -1282,7 +1282,7 @@
     "suburb": "Hurstville",
     "postcode": "2220",
     "state": "NSW",
-    "estimate": "210",
+    "estimate": 210,
     "term": "month",
     "type": "carpark"
   },
@@ -1291,7 +1291,7 @@
     "suburb": "Kensignton ",
     "postcode": "2033",
     "state": "NSW",
-    "estimate": "290",
+    "estimate": 290,
     "term": "month",
     "type": "carpark"
   },
@@ -1300,7 +1300,7 @@
     "suburb": "Kingsford",
     "postcode": "2032",
     "state": "NSW",
-    "estimate": "920",
+    "estimate": 920,
     "term": "month",
     "type": "carpark"
   },
@@ -1309,7 +1309,7 @@
     "suburb": "Kirribilli",
     "postcode": "2061",
     "state": "NSW",
-    "estimate": "340",
+    "estimate": 340,
     "term": "month",
     "type": "carpark"
   },
@@ -1318,7 +1318,7 @@
     "suburb": "Leichhardt",
     "postcode": "2040",
     "state": "NSW",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "carpark"
   },
@@ -1327,7 +1327,7 @@
     "suburb": "Liverpool",
     "postcode": "2170",
     "state": "NSW",
-    "estimate": "190",
+    "estimate": 190,
     "term": "month",
     "type": "carpark"
   },
@@ -1336,7 +1336,7 @@
     "suburb": "Manly",
     "postcode": "2095",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1345,7 +1345,7 @@
     "suburb": "Mascot",
     "postcode": "2020",
     "state": "NSW",
-    "estimate": "180",
+    "estimate": 180,
     "term": "month",
     "type": "carpark"
   },
@@ -1354,7 +1354,7 @@
     "suburb": "Millers Point",
     "postcode": "2000",
     "state": "NSW",
-    "estimate": "600",
+    "estimate": 600,
     "term": "month",
     "type": "carpark"
   },
@@ -1363,7 +1363,7 @@
     "suburb": "Naremburn",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1372,7 +1372,7 @@
     "suburb": "Neutral Bay",
     "postcode": "2089",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1381,7 +1381,7 @@
     "suburb": "Newcastle",
     "postcode": "2300",
     "state": "NSW",
-    "estimate": "370",
+    "estimate": 370,
     "term": "month",
     "type": "carpark"
   },
@@ -1390,7 +1390,7 @@
     "suburb": "Newtown",
     "postcode": "2042",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1399,7 +1399,7 @@
     "suburb": "North Bondi",
     "postcode": "2059",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1408,7 +1408,7 @@
     "suburb": "North Stratfield",
     "postcode": "2137",
     "state": "NSW",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -1417,7 +1417,7 @@
     "suburb": "North Sydney",
     "postcode": "2059",
     "state": "NSW",
-    "estimate": "430",
+    "estimate": 430,
     "term": "month",
     "type": "carpark"
   },
@@ -1426,7 +1426,7 @@
     "suburb": "Parramatta",
     "postcode": "2124",
     "state": "NSW",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "carpark"
   },
@@ -1435,7 +1435,7 @@
     "suburb": "Potts Point",
     "postcode": "2011",
     "state": "NSW",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1444,7 +1444,7 @@
     "suburb": "Pymble",
     "postcode": "2073",
     "state": "NSW",
-    "estimate": "100",
+    "estimate": 100,
     "term": "month",
     "type": "carpark"
   },
@@ -1453,7 +1453,7 @@
     "suburb": "Pyrmont",
     "postcode": "2009",
     "state": "NSW",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1462,7 +1462,7 @@
     "suburb": "Rushcutters",
     "postcode": "2011",
     "state": "NSW",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1471,7 +1471,7 @@
     "suburb": "St Peters",
     "postcode": "2044",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1480,7 +1480,7 @@
     "suburb": "St Leonards",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "carpark"
   },
@@ -1489,7 +1489,7 @@
     "suburb": "Surry Hills",
     "postcode": "2010",
     "state": "NSW",
-    "estimate": "370",
+    "estimate": 370,
     "term": "month",
     "type": "carpark"
   },
@@ -1498,7 +1498,7 @@
     "suburb": "Sydney",
     "postcode": "2001",
     "state": "NSW",
-    "estimate": "800",
+    "estimate": 800,
     "term": "month",
     "type": "carpark"
   },
@@ -1507,7 +1507,7 @@
     "suburb": "Ultimo",
     "postcode": "2007",
     "state": "NSW",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1516,7 +1516,7 @@
     "suburb": "Waterloo",
     "postcode": "2017",
     "state": "NSW",
-    "estimate": "550",
+    "estimate": 550,
     "term": "month",
     "type": "carpark"
   },
@@ -1525,7 +1525,7 @@
     "suburb": "Wentworth Point",
     "postcode": "2009",
     "state": "NSW",
-    "estimate": "900",
+    "estimate": 900,
     "term": "month",
     "type": "carpark"
   },
@@ -1534,7 +1534,7 @@
     "suburb": "Westmead",
     "postcode": "2145",
     "state": "NSW",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1543,7 +1543,7 @@
     "suburb": "Wickham",
     "postcode": "2293",
     "state": "NSW",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1552,7 +1552,7 @@
     "suburb": "Wolli Creek",
     "postcode": "2205",
     "state": "NSW",
-    "estimate": "230",
+    "estimate": 230,
     "term": "month",
     "type": "carpark"
   },
@@ -1561,7 +1561,7 @@
     "suburb": "Wollongong",
     "postcode": "2520",
     "state": "NSW",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1570,7 +1570,7 @@
     "suburb": "Wollstonecraft",
     "postcode": "2065",
     "state": "NSW",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "carpark"
   },
@@ -1579,7 +1579,7 @@
     "suburb": "Woollahra",
     "postcode": "2025",
     "state": "NSW",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "carpark"
   },
@@ -1588,7 +1588,7 @@
     "suburb": "Zetland",
     "postcode": "2017",
     "state": "NSW",
-    "estimate": "220",
+    "estimate": 220,
     "term": "month",
     "type": "carpark"
   },
@@ -1597,7 +1597,7 @@
     "suburb": "Abbotsford",
     "postcode": "3067",
     "state": "VIC",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "carpark"
   },
@@ -1606,7 +1606,7 @@
     "suburb": "Brunswick",
     "postcode": "3056",
     "state": "VIC",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1615,7 +1615,7 @@
     "suburb": "Carlton",
     "postcode": "3053",
     "state": "VIC",
-    "estimate": "230",
+    "estimate": 230,
     "term": "month",
     "type": "carpark"
   },
@@ -1624,7 +1624,7 @@
     "suburb": "Clayton",
     "postcode": "3168",
     "state": "VIC",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -1633,7 +1633,7 @@
     "suburb": "Dandenong",
     "postcode": "3175",
     "state": "VIC",
-    "estimate": "90",
+    "estimate": 90,
     "term": "month",
     "type": "carpark"
   },
@@ -1642,7 +1642,7 @@
     "suburb": "Docklands",
     "postcode": "3008",
     "state": "VIC",
-    "estimate": "430",
+    "estimate": 430,
     "term": "month",
     "type": "carpark"
   },
@@ -1651,7 +1651,7 @@
     "suburb": "Flemington ",
     "postcode": "3031",
     "state": "VIC",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1660,7 +1660,7 @@
     "suburb": "Footscray",
     "postcode": "3011",
     "state": "VIC",
-    "estimate": "80",
+    "estimate": 80,
     "term": "month",
     "type": "carpark"
   },
@@ -1669,7 +1669,7 @@
     "suburb": "Greensborough",
     "postcode": "3088",
     "state": "VIC",
-    "estimate": "90",
+    "estimate": 90,
     "term": "month",
     "type": "carpark"
   },
@@ -1678,7 +1678,7 @@
     "suburb": "Hawthorn",
     "postcode": "3122",
     "state": "VIC",
-    "estimate": "180",
+    "estimate": 180,
     "term": "month",
     "type": "carpark"
   },
@@ -1687,7 +1687,7 @@
     "suburb": "Heidelberg West",
     "postcode": "3084",
     "state": "VIC",
-    "estimate": "80",
+    "estimate": 80,
     "term": "month",
     "type": "carpark"
   },
@@ -1696,7 +1696,7 @@
     "suburb": "Melbourne",
     "postcode": "3001",
     "state": "VIC",
-    "estimate": "480",
+    "estimate": 480,
     "term": "month",
     "type": "carpark"
   },
@@ -1705,7 +1705,7 @@
     "suburb": "Mitcham",
     "postcode": "3132",
     "state": "VIC",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -1714,7 +1714,7 @@
     "suburb": "Moonee Ponds",
     "postcode": "3099",
     "state": "VIC",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "carpark"
   },
@@ -1723,7 +1723,7 @@
     "suburb": "Mount Waverley",
     "postcode": "3149",
     "state": "VIC",
-    "estimate": "120",
+    "estimate": 120,
     "term": "month",
     "type": "carpark"
   },
@@ -1732,7 +1732,7 @@
     "suburb": "Newport",
     "postcode": "3015",
     "state": "VIC",
-    "estimate": "190",
+    "estimate": 190,
     "term": "month",
     "type": "carpark"
   },
@@ -1741,7 +1741,7 @@
     "suburb": "North Melbourne ",
     "postcode": "3051",
     "state": "VIC",
-    "estimate": "310",
+    "estimate": 310,
     "term": "month",
     "type": "carpark"
   },
@@ -1750,7 +1750,7 @@
     "suburb": "Parkville",
     "postcode": "3052",
     "state": "VIC",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1759,7 +1759,7 @@
     "suburb": "Prahran",
     "postcode": "3181",
     "state": "VIC",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -1768,7 +1768,7 @@
     "suburb": "Richmond",
     "postcode": "3121",
     "state": "VIC",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -1777,7 +1777,7 @@
     "suburb": "Saint Kilda",
     "postcode": "3182",
     "state": "VIC",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1786,7 +1786,7 @@
     "suburb": "Saint Kilda East",
     "postcode": "3183",
     "state": "VIC",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1795,7 +1795,7 @@
     "suburb": "South Melbourne",
     "postcode": "3025",
     "state": "VIC",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1804,7 +1804,7 @@
     "suburb": "South Yarra",
     "postcode": "3141",
     "state": "VIC",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "carpark"
   },
@@ -1813,7 +1813,7 @@
     "suburb": "Southbank",
     "postcode": "3006",
     "state": "VIC",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "carpark"
   },
@@ -1822,7 +1822,7 @@
     "suburb": "St Kilda",
     "postcode": "3182",
     "state": "VIC",
-    "estimate": "480",
+    "estimate": 480,
     "term": "month",
     "type": "carpark"
   },
@@ -1831,7 +1831,7 @@
     "suburb": "West Melbourne",
     "postcode": "3003",
     "state": "VIC",
-    "estimate": "500",
+    "estimate": 500,
     "term": "month",
     "type": "carpark"
   },
@@ -1840,7 +1840,7 @@
     "suburb": "Windsor",
     "postcode": "3181",
     "state": "VIC",
-    "estimate": "280",
+    "estimate": 280,
     "term": "month",
     "type": "carpark"
   },
@@ -1849,7 +1849,7 @@
     "suburb": "Auchenflower",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1858,7 +1858,7 @@
     "suburb": "Bowen Hills",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "320",
+    "estimate": 320,
     "term": "month",
     "type": "carpark"
   },
@@ -1867,7 +1867,7 @@
     "suburb": "Brisbane",
     "postcode": "4001",
     "state": "QLD",
-    "estimate": "450",
+    "estimate": 450,
     "term": "month",
     "type": "carpark"
   },
@@ -1876,7 +1876,7 @@
     "suburb": "Brisbane City",
     "postcode": "4000",
     "state": "QLD",
-    "estimate": "430",
+    "estimate": 430,
     "term": "month",
     "type": "carpark"
   },
@@ -1885,7 +1885,7 @@
     "suburb": "Bundall",
     "postcode": "4217",
     "state": "QLD",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -1894,7 +1894,7 @@
     "suburb": "Fortitutde Valley",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "carpark"
   },
@@ -1903,7 +1903,7 @@
     "suburb": "Greenslopes",
     "postcode": "4120",
     "state": "QLD",
-    "estimate": "180",
+    "estimate": 180,
     "term": "month",
     "type": "carpark"
   },
@@ -1912,7 +1912,7 @@
     "suburb": "Herston",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "250",
+    "estimate": 250,
     "term": "month",
     "type": "carpark"
   },
@@ -1921,7 +1921,7 @@
     "suburb": "Kangaroo Point",
     "postcode": "4169",
     "state": "QLD",
-    "estimate": "110",
+    "estimate": 110,
     "term": "month",
     "type": "carpark"
   },
@@ -1930,7 +1930,7 @@
     "suburb": "Milton",
     "postcode": "4064",
     "state": "QLD",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -1939,7 +1939,7 @@
     "suburb": "Nambour",
     "postcode": "4560",
     "state": "QLD",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -1948,7 +1948,7 @@
     "suburb": "New Farm",
     "postcode": "4005",
     "state": "QLD",
-    "estimate": "270",
+    "estimate": 270,
     "term": "month",
     "type": "carpark"
   },
@@ -1957,7 +1957,7 @@
     "suburb": "Newstead",
     "postcode": "4006",
     "state": "QLD",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -1966,7 +1966,7 @@
     "suburb": "Red Hill",
     "postcode": "4059",
     "state": "QLD",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -1975,7 +1975,7 @@
     "suburb": "South Brisbane",
     "postcode": "4101",
     "state": "QLD",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "carpark"
   },
@@ -1984,7 +1984,7 @@
     "suburb": "Southport",
     "postcode": "4215",
     "state": "QLD",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "carpark"
   },
@@ -1993,7 +1993,7 @@
     "suburb": "Spring Hill",
     "postcode": "4000",
     "state": "QLD",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "carpark"
   },
@@ -2002,7 +2002,7 @@
     "suburb": "Surfers Paradise",
     "postcode": "4217",
     "state": "QLD",
-    "estimate": "350",
+    "estimate": 350,
     "term": "month",
     "type": "carpark"
   },
@@ -2011,7 +2011,7 @@
     "suburb": "Teneriffe",
     "postcode": "4005",
     "state": "QLD",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -2020,7 +2020,7 @@
     "suburb": "West End",
     "postcode": "4101",
     "state": "QLD",
-    "estimate": "230",
+    "estimate": 230,
     "term": "month",
     "type": "carpark"
   },
@@ -2029,7 +2029,7 @@
     "suburb": "Wolloongabba",
     "postcode": "4102",
     "state": "QLD",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -2038,7 +2038,7 @@
     "suburb": "Yeerongpilly",
     "postcode": "4105",
     "state": "QLD",
-    "estimate": "240",
+    "estimate": 240,
     "term": "month",
     "type": "carpark"
   },
@@ -2047,7 +2047,7 @@
     "suburb": "East Perth",
     "postcode": "6004",
     "state": "WA",
-    "estimate": "300",
+    "estimate": 300,
     "term": "month",
     "type": "carpark"
   },
@@ -2056,7 +2056,7 @@
     "suburb": "Perth",
     "postcode": "6000",
     "state": "WA",
-    "estimate": "570",
+    "estimate": 570,
     "term": "month",
     "type": "carpark"
   },
@@ -2065,7 +2065,7 @@
     "suburb": "Scarborough",
     "postcode": "6019",
     "state": "WA",
-    "estimate": "200",
+    "estimate": 200,
     "term": "month",
     "type": "carpark"
   },
@@ -2074,7 +2074,7 @@
     "suburb": "Canberra",
     "postcode": "2601",
     "state": "ACT",
-    "estimate": "330",
+    "estimate": 330,
     "term": "month",
     "type": "carpark"
   },
@@ -2083,7 +2083,7 @@
     "suburb": "Kingston",
     "postcode": "2604",
     "state": "ACT",
-    "estimate": "140",
+    "estimate": 140,
     "term": "month",
     "type": "carpark"
   },
@@ -2092,7 +2092,7 @@
     "suburb": "Hobart",
     "postcode": "7000",
     "state": "TAS",
-    "estimate": "260",
+    "estimate": 260,
     "term": "month",
     "type": "carpark"
   },
@@ -2101,7 +2101,7 @@
     "suburb": "Lauceston ",
     "postcode": "7250",
     "state": "TAS",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   },
@@ -2110,7 +2110,7 @@
     "suburb": "Lauceston ",
     "postcode": "7250AB",
     "state": "TAS",
-    "estimate": "150",
+    "estimate": 150,
     "term": "month",
     "type": "carpark"
   }

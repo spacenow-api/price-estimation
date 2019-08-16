@@ -16,6 +16,7 @@ export const main = async () => {
       })
     }
   } catch (err) {
+    console.error(err)
     return failure({ status: false, error: err })
   }
 
@@ -26,6 +27,7 @@ export const main = async () => {
     })
     return success({ count: result.Items.length, results: result.Items })
   } catch (err) {
+    console.error(err)
     return failure({ status: false })
   }
 }
