@@ -9,7 +9,6 @@ export const main = async () => {
   if (FILL_DATABASE) {
     try {
       console.log('Put all itens on price-estimation-table...')
-      console.log('Data:', estimationsData)
       for (const e of estimationsData) {
         await dynamoDbLib.call('put', {
           TableName: process.env.tableName,
