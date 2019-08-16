@@ -1,16 +1,15 @@
-import fs from 'fs'
-
 import * as dynamoDbLib from '../libs/dynamodb-lib'
 import { success, failure } from '../libs/response-lib'
 
 const FILL_DATABASE = true
 
+const estimationsData = require('./../estimations.json')
+
 export const main = async () => {
   if (FILL_DATABASE) {
-    const fileData = fs.readFileSync('estimations.json')
-    const estimationsData = JSON.parse(fileData)
     try {
       console.log('Put all itens on price-estimation-table...')
+      console.log('Data:', estimationsData)
       for (const e of estimationsData) {
         await dynamoDbLib.call('put', {
           TableName: process.env.tableName,
