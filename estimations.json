@@ -1192,7 +1192,7 @@
     "suburb": "Dee Why",
     "postcode": "2099",
     "state": "NSW",
-    "estimate": 1,100,
+    "estimate": 1.100,
     "term": "month",
     "type": "carpark"
   },
