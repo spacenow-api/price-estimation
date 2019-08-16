@@ -1,7 +1,7 @@
-import fs from 'fs'
-
 import * as dynamoDbLib from '../libs/dynamodb-lib'
 import { success, failure } from '../libs/response-lib'
+
+const estimationsData = require('./../estimations.json')
 
 export const main = async () => {
   try {
@@ -9,10 +9,11 @@ export const main = async () => {
     // await dynamoDbLib.call('delete', { TableName: process.env.tableName })
 
     // Reading data file and update database...
-    const rawdata = fs.readFileSync('estimations.json')
-    const estimationsData = JSON.parse(rawdata)
+    // const rawdata = fs.readFileSync('estimations.json')
+    // const estimationsData = JSON.parse(rawdata)
 
     // Put all itens on price-estimation-table...
+    console.log('JSON File Data', estimationsData)
     for (const e of estimationsData) {
       console.log('Estimation Data: ', e)
       // await dynamoDbLib.call('put', {
