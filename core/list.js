@@ -13,15 +13,13 @@ export const main = async () => {
     // const estimationsData = JSON.parse(rawdata)
 
     // Put all itens on price-estimation-table...
-    console.log('JSON File Data', estimationsData)
-    for (const e of estimationsData) {
-      console.log('Estimation Data: ', e)
-      // await dynamoDbLib.call('put', {
-      //   TableName: process.env.tableName,
-      //   Item: e
-      // })
-    }
-    return success({ count: 0, results: [] })
+    // for (const e of estimationsData) {
+    //   await dynamoDbLib.call('put', {
+    //     TableName: process.env.tableName,
+    //     Item: e
+    //   })
+    // }
+    return success({ count: estimationsData.length, results: estimationsData })
   } catch (err) {
     return failure({ status: false, error: err })
   }
