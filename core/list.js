@@ -6,30 +6,26 @@ const estimationsData = require('./../estimations.json')
 export const main = async () => {
   try {
     // Cleaning all records...
-    // await dynamoDbLib.call('delete', { TableName: process.env.tableName })
-
-    // Reading data file and update database...
-    // const rawdata = fs.readFileSync('estimations.json')
-    // const estimationsData = JSON.parse(rawdata)
+    await dynamoDbLib.call('delete', { TableName: process.env.tableName })
 
     // Put all itens on price-estimation-table...
-    // for (const e of estimationsData) {
-    //   await dynamoDbLib.call('put', {
-    //     TableName: process.env.tableName,
-    //     Item: e
-    //   })
-    // }
-    return success({ count: estimationsData.length, results: estimationsData })
+    for (const e of estimationsData) {
+      await dynamoDbLib.call('put', {
+        TableName: process.env.tableName,
+        Item: e
+      })
+    }
   } catch (err) {
     return failure({ status: false, error: err })
   }
-  // // Get all price estimations on database...
-  // try {
-  //   const result = await dynamoDbLib.call('scan', {
-  //     TableName: process.env.tableName
-  //   })
-  //   return success({ count: result.Items.length, results: result.Items })
-  // } catch (err) {
-  //   return failure({ status: false })
-  // }
+
+  // Get all price estimations on database...
+  try {
+    const result = await dynamoDbLib.call('scan', {
+      TableName: process.env.tableName
+    })
+    return success({ count: result.Items.length, results: result.Items })
+  } catch (err) {
+    return failure({ status: false })
+  }
 }
