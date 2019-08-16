@@ -1,3 +1,5 @@
+import fs from 'fs'
+
 import * as dynamoDbLib from '../libs/dynamodb-lib'
 import { success, failure } from '../libs/response-lib'
 
@@ -5,7 +7,8 @@ const FILL_DATABASE = true
 
 export const main = async () => {
   if (FILL_DATABASE) {
-    const estimationsData = require('./../estimations.json')
+    let estimationsData = fs.readFileSync('./../estimations.json')
+    estimationsData = JSON.parse(estimationsData)
     try {
       console.log('Put all itens on price-estimation-table...')
       for (const e of estimationsData) {
