@@ -1,13 +1,36 @@
+import fs from 'fs'
+
 import * as dynamoDbLib from '../libs/dynamodb-lib'
 import { success, failure } from '../libs/response-lib'
 
 export const main = async () => {
   try {
-    const result = await dynamoDbLib.call('scan', {
-      TableName: process.env.tableName
-    })
-    return success({ count: result.Items.length, results: result.Items })
-  } catch (e) {
-    return failure({ status: false })
+    // Cleaning all records...
+    // await dynamoDbLib.call('delete', { TableName: process.env.tableName })
+
+    // Reading data file and update database...
+    const rawdata = fs.readFileSync('estimations.json')
+    const estimationsData = JSON.parse(rawdata)
+
+    // Put all itens on price-estimation-table...
+    for (const e of estimationsData) {
+      console.log('Estimation Data: ', e)
+      // await dynamoDbLib.call('put', {
+      //   TableName: process.env.tableName,
+      //   Item: e
+      // })
+    }
+    return success({ count: 0, results: [] })
+  } catch (err) {
+    return failure({ status: false, error: err })
   }
+  // // Get all price estimations on database...
+  // try {
+  //   const result = await dynamoDbLib.call('scan', {
+  //     TableName: process.env.tableName
+  //   })
+  //   return success({ count: result.Items.length, results: result.Items })
+  // } catch (err) {
+  //   return failure({ status: false })
+  // }
 }
