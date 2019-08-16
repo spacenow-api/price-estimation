@@ -6,7 +6,7 @@ const estimationsData = require('./../estimations.json')
 export const main = async () => {
   try {
     // Cleaning all records...
-    await dynamoDbLib.call('delete', { TableName: process.env.tableName })
+    // await dynamoDbLib.call('delete', { TableName: process.env.tableName })
 
     // Put all itens on price-estimation-table...
     for (const e of estimationsData) {
